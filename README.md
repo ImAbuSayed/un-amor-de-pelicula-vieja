@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche Madrid es pa' nosotros dos,
+> te quitas la pena, te acercas y apagas la voz.
+> Te tengo de frente, mami, yo tomo el control,
+> un amor de película vieja robándose el show.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
