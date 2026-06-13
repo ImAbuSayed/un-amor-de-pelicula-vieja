@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un amor de película vieja
+
+This log tracks the cryptographic history and versioning for the song **Un amor de película vieja** (un-amor-de-pelicula-vieja).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T05:00:54.267474 | `v1` | `229bd14a6bcad3c586c68547de6ad65a16440cd5b37ea6100ba76e2e30096e25` | `140ba13043cb3db58bedd3e0a26b89435ec497dda36eeae81837c5ee35562367` | `2026-06-14_un-amor-de-pelicula-vieja-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
